@@ -5,7 +5,7 @@ Hey there! 👋 I'm Bryan. This repository serves as my portfolio showcasing var
 
 ## Portfolio Highlights
 Here are a few highlights of my work:
-- [Laborforce pipeline](link_to_project_1): The primary objective of this project was to conduct a comprehensive mapping of the business landscape for a specific client within the company. This involved detailed descriptions of the Lines of Business (LOBs) and various communication channels (Voice, Chat, Email) as well as languages utilized by the client.
+- [Laborforce pipeline](https://bit.ly/3Rk3vkI): The primary objective of this project was to conduct a comprehensive mapping of the business landscape for a specific client within the company. This involved detailed descriptions of the Lines of Business (LOBs) and various communication channels (Voice, Chat, Email) as well as languages utilized by the client.
 ## Projects
 ### Laborforce pipeline
 #### **Objectives:** 
@@ -26,6 +26,10 @@ Here are a few highlights of my work:
 - **SQL**
 - **PowerBI**
 - **Excel**
+#### **Screenshoots**
+<a href="https://ibb.co/LPxX0jS"><img src="https://i.ibb.co/hMBJgQs/Scre1.png" alt="Scre1" border="0"></a>
+<a href="https://ibb.co/ZVkBHBp"><img src="https://i.ibb.co/xDR1m1t/Scr4.png" alt="Scr4" border="0"></a>
+<a href="https://ibb.co/y04qF5S"><img src="https://i.ibb.co/dBmD46g/Scre2.png" alt="Scre2" border="0"></a>
 
 ## Contact Me
 📧 Feel free to reach out to me at [bryandaniel0213@gmail.com](mailto:your_email@example.com) for collaboration, opportunities, or just to connect!
